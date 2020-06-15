@@ -1,0 +1,57 @@
+[
+    {
+        "key": "doraemon01_1_1_timeMachine",
+        "name": "时光机",
+        "en_name": "timeMachine",
+        "jp_name": "タイムマシン",
+        "description": "能够穿梭时空，并且指定任意目的地。",
+        "debut_type": "short", // 首次出现于：short-短篇，long-长篇
+        "debut_roll": "1", // 首次出现卷数, 1-45
+        "debut_chapter": "1", // 首次出现章节
+        "debut_index": "1" // 章节出现序号
+    },
+    {
+        "key": "doraemon01_1_2_bambooDragonfly",
+        "name": "竹蜻蜓",
+        "en_name": "bambooDragonfly",
+        "jp_name": "竹とんぼ",
+        "description": "戴在头上或者身上，能够飞行，电池驱动。",
+        "debut_type": "short", // 首次出现于：short-短篇，long-长篇
+        "debut_roll": "1", // 首次出现卷数, 1-45
+        "debut_chapter": "1", // 首次出现章节
+        "debut_index": "2" // 章节出现序号
+    },
+    {
+        "key": "doraemon01_2_1_magicHand",
+        "name": "魔术手",
+        "en_name": "magicHand",
+        "jp_name": "マジックハンド",
+        "description": "一个机械手，握臂可伸缩，可抓握物体。",
+        "debut_type": "short", // 首次出现于：short-短篇，long-长篇
+        "debut_roll": "1", // 首次出现卷数, 1-45
+        "debut_chapter": "2", // 首次出现章节
+        "debut_index": "1" // 章节出现序号
+    },
+    {
+        "key": "doraemon01_2_2_timeOfTV",
+        "name": "时间电视",
+        "en_name": "timeOfTV",
+        "jp_name": "時間テレビ",
+        "description": "可以观看过去未来任意时间任意地点的物体，可直接立体投影。",
+        "debut_type": "short", // 首次出现于：short-短篇，long-长篇
+        "debut_roll": "1", // 首次出现卷数, 1-45
+        "debut_chapter": "2", // 首次出现章节
+        "debut_index": "2" // 章节出现序号
+    },
+    {
+        "key": "doraemon01_3_1_cookiesFortransformedAnimals",
+        "name": "动物变身饼干",
+        "en_name": "cookiesForTransformedAnimals",
+        "jp_name": "動物に変身するクッキー",
+        "description": "吃下去之后在5分钟后会变身成为相对应的动物，并且可能会有部分动物特性，几分钟之后复原。",
+        "debut_type": "short", // 首次出现于：short-短篇，long-长篇
+        "debut_roll": "1", // 首次出现卷数, 1-45
+        "debut_chapter": "3", // 首次出现章节
+        "debut_index": "1" // 章节出现序号
+    }
+]
