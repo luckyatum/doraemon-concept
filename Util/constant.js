@@ -1,0 +1,1 @@
+export const REALITY_SECOND_PROPORTION = 1; // 现实世界流逝速度 / 虚拟世界流逝速度，如：1表示现实世界1s=虚拟世界1s；
